@@ -1,5 +1,5 @@
 
-Google SDK Version: 1.0.3 (The default one that came with the starter code)
+Google SDK Version: 1.0.3
 
 Explore a maze where you can collect different items. To enter the temple, you must first collect the key and then interacting with the door. To collect items and interact with the door, view the item with your cardboard and then click on them. 
 
